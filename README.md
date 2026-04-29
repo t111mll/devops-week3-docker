@@ -58,4 +58,3 @@ cat data/example.txt
 
 ##  Author
 Timothy Lowe
-Aspiring DevOps / Cloud Engineer
